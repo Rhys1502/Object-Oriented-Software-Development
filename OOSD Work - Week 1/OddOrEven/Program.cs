@@ -22,7 +22,7 @@ namespace OddOrEven
             Console.WriteLine("Enter a number");
             num = int.Parse(Console.ReadLine());
 
-            // Check is number is modulus of 2, if so number is even
+            // Check if number is modulus of 2, if so number is even
             if (num % 2 == 0)
             {
                 Console.WriteLine("Number is even");
