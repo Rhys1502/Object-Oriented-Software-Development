@@ -1,7 +1,0 @@
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\ArrayExample\bin\Debug\ArrayExample.exe.config
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\ArrayExample\bin\Debug\ArrayExample.exe
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\ArrayExample\bin\Debug\ArrayExample.pdb
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\ArrayExample\obj\Debug\ArrayExample.csproj.AssemblyReference.cache
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\ArrayExample\obj\Debug\ArrayExample.csproj.CoreCompileInputs.cache
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\ArrayExample\obj\Debug\ArrayExample.exe
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\ArrayExample\obj\Debug\ArrayExample.pdb

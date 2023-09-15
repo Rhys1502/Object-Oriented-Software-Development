@@ -1,7 +1,0 @@
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\OddOrEven\bin\Debug\OddOrEven.exe.config
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\OddOrEven\bin\Debug\OddOrEven.exe
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\OddOrEven\bin\Debug\OddOrEven.pdb
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\OddOrEven\obj\Debug\OddOrEven.csproj.AssemblyReference.cache
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\OddOrEven\obj\Debug\OddOrEven.csproj.CoreCompileInputs.cache
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\OddOrEven\obj\Debug\OddOrEven.exe
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\OddOrEven\obj\Debug\OddOrEven.pdb

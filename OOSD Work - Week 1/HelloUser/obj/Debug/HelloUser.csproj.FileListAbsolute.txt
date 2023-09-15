@@ -1,7 +1,0 @@
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\HelloUser\obj\Debug\HelloUser.csproj.AssemblyReference.cache
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\HelloUser\obj\Debug\HelloUser.csproj.CoreCompileInputs.cache
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\HelloUser\bin\Debug\HelloUser.exe.config
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\HelloUser\bin\Debug\HelloUser.exe
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\HelloUser\bin\Debug\HelloUser.pdb
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\HelloUser\obj\Debug\HelloUser.exe
-C:\Users\Rhys\Source\Repos\Rhys1502\OOSD-Work\OOSD Work - Week 1\HelloUser\obj\Debug\HelloUser.pdb
