@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOSD-Week1-All", "OOSD-Week1-All\OOSD-Week1-All.csproj", "{D78600D9-55D8-478F-AA7B-9E65389BDFD9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloUser", "..\OOSD Work - Week 1\HelloUser\HelloUser.csproj", "{582C6E0A-CA1B-464A-B6D6-86D6C975E538}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayExample", "..\OOSD Work - Week 1\ArrayExample\ArrayExample.csproj", "{8BDC6142-DDE6-4C9C-8489-76AD73264484}"
@@ -19,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D78600D9-55D8-478F-AA7B-9E65389BDFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D78600D9-55D8-478F-AA7B-9E65389BDFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D78600D9-55D8-478F-AA7B-9E65389BDFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D78600D9-55D8-478F-AA7B-9E65389BDFD9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{582C6E0A-CA1B-464A-B6D6-86D6C975E538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{582C6E0A-CA1B-464A-B6D6-86D6C975E538}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{582C6E0A-CA1B-464A-B6D6-86D6C975E538}.Release|Any CPU.ActiveCfg = Release|Any CPU
