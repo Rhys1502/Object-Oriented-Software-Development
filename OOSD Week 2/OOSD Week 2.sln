@@ -5,7 +5,17 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestGUI", "TestGUI\TestGUI.csproj", "{8AF54E1B-6BF0-4BE0-9637-5E61EB1E8289}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberWPF", "RandomNumberWPF\RandomNumberWPF.csproj", "{42614B0B-5B63-4384-AFAE-FFE1DC45E5FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomNumberWPF", "RandomNumberWPF\RandomNumberWPF.csproj", "{42614B0B-5B63-4384-AFAE-FFE1DC45E5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandlers", "EventHandlers\EventHandlers.csproj", "{6E3E0408-441E-465E-B938-4D8A9799B977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1", "Example1\Example1.csproj", "{C7C14B20-1A30-422C-8AA2-C35CEF221FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2", "Example2\Example2.csproj", "{A6CECE03-9B96-4D60-A567-1A6AE497013A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerEvents", "Timer\TimerEvents.csproj", "{EE1795F6-14C0-424A-AF6C-1EA25C2BF336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation", "Validation\Validation.csproj", "{04ED2E87-24FD-4DEB-A90D-40CC7DADA8AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +31,26 @@ Global
 		{42614B0B-5B63-4384-AFAE-FFE1DC45E5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42614B0B-5B63-4384-AFAE-FFE1DC45E5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42614B0B-5B63-4384-AFAE-FFE1DC45E5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3E0408-441E-465E-B938-4D8A9799B977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3E0408-441E-465E-B938-4D8A9799B977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3E0408-441E-465E-B938-4D8A9799B977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3E0408-441E-465E-B938-4D8A9799B977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C14B20-1A30-422C-8AA2-C35CEF221FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C14B20-1A30-422C-8AA2-C35CEF221FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C14B20-1A30-422C-8AA2-C35CEF221FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C14B20-1A30-422C-8AA2-C35CEF221FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6CECE03-9B96-4D60-A567-1A6AE497013A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CECE03-9B96-4D60-A567-1A6AE497013A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6CECE03-9B96-4D60-A567-1A6AE497013A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CECE03-9B96-4D60-A567-1A6AE497013A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1795F6-14C0-424A-AF6C-1EA25C2BF336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1795F6-14C0-424A-AF6C-1EA25C2BF336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1795F6-14C0-424A-AF6C-1EA25C2BF336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1795F6-14C0-424A-AF6C-1EA25C2BF336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04ED2E87-24FD-4DEB-A90D-40CC7DADA8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04ED2E87-24FD-4DEB-A90D-40CC7DADA8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04ED2E87-24FD-4DEB-A90D-40CC7DADA8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04ED2E87-24FD-4DEB-A90D-40CC7DADA8AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
