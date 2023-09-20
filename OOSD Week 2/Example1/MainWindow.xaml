@@ -22,7 +22,6 @@
             <ListBoxItem Content="Geography"/>
         </ComboBox>
         <Label x:Name="lblCourse" Content="Course" Grid.Column="1" HorizontalAlignment="Left" Margin="0,227,0,0" VerticalAlignment="Top" Width="173" Visibility="Hidden"/>
-        <Label Grid.Column="1" Content="Label" HorizontalAlignment="Left" Margin="109,227,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="72" Width="155"/>
 
     </Grid>
 </Window>
