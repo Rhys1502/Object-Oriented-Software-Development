@@ -1,4 +1,3 @@
-# Object-Oriented-Software-Development
 ## Object Oriented Software Development - SET08119
 ## Edinburgh Napier University
 ### Created 
